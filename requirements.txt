@@ -1,7 +1,6 @@
 streamlit
 numpy
 xarray
-netCDF4
 matplotlib
-cartopy
+netCDF4
 wrf-python
