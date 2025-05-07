@@ -1,6 +1,6 @@
-streamlit
-numpy
-xarray
-matplotlib
+numpy==1.23.5
+xarray==2023.12.0
 netCDF4
 wrf-python
+matplotlib
+streamlit
