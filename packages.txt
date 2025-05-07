@@ -1,0 +1,7 @@
+build-essential
+gfortran
+libgdal-dev
+libproj-dev
+libgeos-dev
+libnetcdf-dev
+proj-bin
