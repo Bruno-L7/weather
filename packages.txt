@@ -5,3 +5,5 @@ libproj-dev
 libgeos-dev
 libnetcdf-dev
 proj-bin
+proj-data
+gdal-bin
