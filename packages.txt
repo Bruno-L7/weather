@@ -7,3 +7,4 @@ libnetcdf-dev
 proj-bin
 proj-data
 gdal-bin
+libhdf5-dev
