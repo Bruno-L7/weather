@@ -8,3 +8,5 @@ proj-bin
 proj-data
 gdal-bin
 libhdf5-dev
+libgl1-mesa-glx
+libgomp1
