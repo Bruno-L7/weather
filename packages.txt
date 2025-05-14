@@ -10,3 +10,4 @@ gdal-bin
 libhdf5-dev
 libgl1-mesa-glx
 libgomp1
+libopenblas-dev
