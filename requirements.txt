@@ -8,3 +8,4 @@ cartopy
 pandas
 requests
 python-dateutil
+scipy
